@@ -1,0 +1,3 @@
+rootProject.name = 'DeviceInfo'
+
+include ':app'
